@@ -4,6 +4,4 @@ This website is manually coded without using any framework and it's the second o
 ![image](https://user-images.githubusercontent.com/103332504/206478533-accffdda-d0c1-4f39-954e-9fc25f6b3e83.png)
 **Link to the project:** https://martincosimano.github.io/e-commerce-breakingwaves-website/
 
-## How It's Made:
-
 **Tech used:** HTML, CSS, JavaScript, NodeJS.
