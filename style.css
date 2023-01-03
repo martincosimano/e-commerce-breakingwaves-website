@@ -328,22 +328,6 @@ nav {
   padding: 2rem;
 }
 
-/* Video section */
-
-.video-section {
-  padding-top: 1rem;
-  padding-bottom: 4rem;
-}
-
-.wrapper {
-  margin: 0 auto;
-  width: 80%;
-}
-
-video {
-  width: 100%;
-}
-
 /* Footer section */
 footer {
   margin-top: -1rem;
@@ -435,11 +419,6 @@ footer {
   }
 
   .about-container div {
-    width: 100%;
-  }
-
-  .wrapper {
-    margin: 0 auto;
     width: 100%;
   }
 
